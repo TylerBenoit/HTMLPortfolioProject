@@ -1,0 +1,33 @@
+body {
+  padding: 1%;
+  font-family: "Skolar Regular", "Roboto Slab", "Droid Serif", Cambria, Georgia, "Times New Roman", Times, serif;
+}
+
+.header {
+  background: #0C87B2;
+  padding: inherit;
+  color: white;
+}
+
+.tagline p {
+  width: 70%;
+  margin-left: 1%;
+}
+
+.skills {
+  background: #FF9322;
+  padding: inherit;
+}
+
+.skills ul {
+  list-style-image: url("https://mdn.mozillademos.org/files/11981/starsolid.gif");
+}
+
+a {
+  text-decoration: none;
+  color: #3BCCFF;
+}
+
+a:hover {
+  font-weight: bold;
+}
